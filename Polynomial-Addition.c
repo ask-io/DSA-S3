@@ -1,3 +1,12 @@
+/*
+
+ * AUTHOR  : Abhijit Smiju Kunnel
+ * CLASS   : CSE B
+ * ROLL NO : 2
+ * REG NO  : 25CS005
+ 
+ */
+
 #include <stdio.h>
 
 struct Term
@@ -9,7 +18,7 @@ struct Term
 struct Term x1[20], x2[20], x3[40];
 
 
-int read(struct Term p[]) {             //Read the polynomial
+int read(struct Term p[]) {             
     int i, terms;
     printf("Enter number of terms: ");
     scanf("%d", &terms);
