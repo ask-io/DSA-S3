@@ -1,3 +1,11 @@
+/*
+
+ * AUTHOR  : Abhijit Smiju Kunnel
+ * CLASS   : CSE B
+ * ROLL NO : 2
+ * REG NO  : 25CS005
+ 
+ */
 #include <stdio.h>
 
 struct Term {
