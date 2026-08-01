@@ -75,7 +75,7 @@ void displayOrders() {
 
 int main() {
     int option;
-    int f = 1; // Renamed variable to avoid shadowing global pointer 'f'
+    int f = 1;
 
     do {
         printf("\n=== Food Delivery Order System ===\n");
