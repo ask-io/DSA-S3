@@ -1,4 +1,12 @@
 /*A food delivery platform maintains the list of active orders. New orders are continuously added, and completed orders are removed.*/
+/*
+
+ * AUTHOR  : Abhijit Smiju Kunnel
+ * CLASS   : CSE B
+ * ROLL NO : 2
+ * REG NO  : 25CS005
+ 
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
